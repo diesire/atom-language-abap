@@ -1,0 +1,19 @@
+{
+  "name": "language-abap",
+  "version": "0.1.0",
+  "description": "Abap language support in Atom",
+  "homepage": "https://github.com/diesire/atom-language-abap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diesire/atom-language-abap.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diesire/atom-language-abap/issues"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
