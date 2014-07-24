@@ -1,0 +1,4 @@
+'.source.abap':
+  'Error':
+    'prefix': 'err'
+    'body': 'if not sy-subrc is initial.\n\t${1:"Error}\nendif.'
