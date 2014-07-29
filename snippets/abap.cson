@@ -1,4 +1,4 @@
 '.source.abap':
   'Error':
     'prefix': 'err'
-    'body': 'if not sy-subrc is initial.\n\t${1:"Error}\nendif.'
+    'body': 'if not sy-subrc is initial.\n\t${1:message id sy-msgid type sy-msgty number sy-msgno\n\t\twith sy-msgv1 sy-msgv2 sy-msgv3 sy-msgv4.}\nendif.'
