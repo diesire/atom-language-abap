@@ -4,3 +4,9 @@
 
 ## 0.1.1 - New base grammar
 * Fix some grammar issues
+
+## 0.2.0 - Code completions
+* Add comment/uncomment support
+* Add code completions
+* Fix snippets scope
+* Change error snippet
