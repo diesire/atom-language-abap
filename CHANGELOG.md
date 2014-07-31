@@ -10,3 +10,7 @@
 * Add code completions
 * Fix snippets scope
 * Change error snippet
+
+## 0.3.0 - Add CI
+* Add CI setup (windows)
+* Add some grammar tests
