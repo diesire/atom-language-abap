@@ -1,6 +1,6 @@
 {
   "name": "language-abap",
-  "version": "1.0.0",
+  "version": "0.3.0",
   "description": "Abap language support in Atom",
   "homepage": "https://github.com/diesire/atom-language-abap",
   "repository": {
