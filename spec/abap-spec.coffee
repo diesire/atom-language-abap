@@ -6,7 +6,7 @@ describe "Abap grammar", ->
       atom.packages.activatePackage("language-abap")
 
     runs ->
-      grammar = atom.syntax.grammarForScopeName("source.abp")
+      grammar = atom.grammars.grammarForScopeName("source.abp")
 
   it "parses the grammar", ->
     expect(grammar).toBeTruthy()
